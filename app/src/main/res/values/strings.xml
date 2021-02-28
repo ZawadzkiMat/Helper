@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Helper</string>
+    <string name="Overall_width">Szerokość całkowita w cm</string>
+    <string name="Gate_width">Szerokośc bramy w cm</string>
 </resources>
